@@ -3,7 +3,7 @@
 🧠 Studied at the Massachusetts Institute of Technology (MIT) <br/>
 🏙️ BS in Urban Science & Planning with Computer Science <br/>
 🎼 Second major in Music <br/>
-🎓 Now pursuing a joint master's degree under the Europian Union's Erasmus Mundus program (enrolled in 10 universities simultaneously!)
+🎓 Now pursuing a joint master's degree under the Europian Union's Erasmus Mundus program (enrolled in 10 universities simultaneously!) <br/>
 🌟 I'm passionate about civic tech and applying SWE to challenges in sustainability and urban equity
 
 # 💻 Tech Stack:
